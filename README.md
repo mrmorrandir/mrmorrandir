@@ -3,8 +3,8 @@
 Hi there! I'm a full-time software developer with a background in mechatronics engineering. I'm located in Germany, BY. Currently, I work at a medium-sized mechatronics company that operates in various sectors such as mechanical engineering, energy, automotive, aerospace, medical technology, as well as measurement and testing technology.
 
 ## Professional Experience
-In my role, I serve as the team coordinator for a small software team. We specialize in creating digitalization solutions and software for internal assembly systems and test benches. My work spans across the entire automation pyramid, from the low-level PLC/SPS programming to the SCADA level, where we develop ASP.NET APIs for seamless integration with Databases, MES (Manufacturing Execution System) and ERP (Enterprise Resource Planning) systems.  
-(The SCADA is our biggest project - currently in development is the second generation - we change from the outdated .NetFramework and WCF to .NET and ASP.NET APIs (Swagger etc.))
+In my role, I serve as the team coordinator for a small software team. We specialize in creating digitalization solutions and software for internal assembly systems and test benches. My work spans across the entire automation pyramid, from the low-level PLC/SPS programming to the SCADA level, where we develop ASP.NET APIs for seamless integration with databases, MES and ERP systems.  
+*(The SCADA is our biggest project - currently we are developing the second generation switching from the outdated .NetFramework and WCF to .NET and dockerized ASP.NET APIs (with Swagger etc.))*
 
 ## Skills and Interests
 My areas of expertise include software development, mechatronics, automation, and industrial control systems. I'm passionate about leveraging technology to optimize manufacturing processes, enhance efficiency, and improve overall productivity. I really like all the things that I can bring to life and movement with my code.
