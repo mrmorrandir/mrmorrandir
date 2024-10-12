@@ -1,5 +1,5 @@
 # Hey, I'm Andi - Andreas Naumann
-👋 Full-time software developer with a background in mechatronics engineering, based in Bavaria, Germany. I work at a mid-sized mechatronics company that’s involved in sectors like mechanical engineering, energy, automotive, aerospace, and medical tech.
+Full-time software developer with a background in mechatronics engineering, based in Bavaria, Germany. I work at a mid-sized mechatronics company that’s involved in sectors like mechanical engineering, energy, automotive, aerospace, and medical tech.
 
 ## What I Do
 I'm the team coordinator of a small software squad. We build digitalization solutions and custom software for internal assembly lines and test benches. From PLC/SPS programming at the base level, up to SCADA systems, where we design ASP.NET APIs for integration with databases, MES, and ERP systems.
@@ -17,13 +17,13 @@ I like automation, control systems, and code that moves real-world things, but I
 If it’s about creativity and finding solutions for problems, I’m in!
 
 ## Off The Clock
-When I’m not coding or solving automation puzzles, here’s what I’m up to:
+When I’m not coding, here’s what I’m up to:
 
-☕ Coffee Nerd: Obsessed with all brewing methods (except cold brew—unless I forget my coffee and it happens by accident).
-🎮 Gaming: Forza Horizon on my Xbox is my go-to escape. Fast cars, open roads, good times.
-🚴 Outdoors: I love hiking, cycling and running, or just being out in nature to recharge.
-👨‍👧 Family Time: My daughter’s still little, and I love spending time with her, watching her explore the world.
-🚐 Camper Life: Road-tripping in my VW T5 camper van with my wife, listening to audiobooks, and seeing new things.
+- ☕ **Coffee Nerd**: Obsessed with all brewing methods (except cold brew—unless I forget my coffee and it happens by accident).  
+- 🎮 **Gaming**: Forza Horizon on my Xbox is my go-to escape. Fast cars, open roads, good times.  
+- 🚴 **Outdoors**: I love hiking, cycling and running, or just being out in nature to recharge.  
+- 👨‍👧 **Family Time**: My daughter’s still little, and I love spending time with her, watching her explore the world.  
+- 🚐 **Camper Life**: Road-tripping in my VW T5 camper van with my wife, listening to audiobooks, and seeing new things.  
 
 # Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
