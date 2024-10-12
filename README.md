@@ -1,24 +1,29 @@
-# Hi, I'm Andi - Andreas Naumann
+# Hey, I'm Andi - Andreas Naumann
+👋 Full-time software developer with a background in mechatronics engineering, based in Bavaria, Germany. I work at a mid-sized mechatronics company that’s involved in sectors like mechanical engineering, energy, automotive, aerospace, and medical tech.
 
-Hi there! I'm a full-time software developer with a background in mechatronics engineering. I'm located in Germany, BY. Currently, I work at a medium-sized mechatronics company that operates in various sectors such as mechanical engineering, energy, automotive, aerospace, medical technology, as well as measurement and testing technology.
+## What I Do
+I'm the team coordinator of a small software squad. We build digitalization solutions and custom software for internal assembly lines and test benches. From PLC/SPS programming at the base level, up to SCADA systems, where we design ASP.NET APIs for integration with databases, MES, and ERP systems.
 
-## Professional Experience
-In my role, I serve as the team coordinator for a small software team. We specialize in creating digitalization solutions and software for internal assembly systems and test benches. My work spans across the entire automation pyramid, from the low-level PLC/SPS programming to the SCADA level, where we develop ASP.NET APIs for seamless integration with databases, MES and ERP systems.  
-*(The SCADA is our biggest project - currently we are developing the second generation switching from the outdated .NetFramework and WCF to .NET and dockerized ASP.NET APIs (with Swagger etc.))*
+Right now, our biggest gig is reworking our SCADA platform — moving away from the old .NET Framework and WCF to shiny new .NET with dockerized ASP.NET APIs (with Swagger and the works).
 
-## Skills and Interests
-My areas of expertise include software development, mechatronics, automation, and industrial control systems. I'm passionate about leveraging technology to optimize manufacturing processes, enhance efficiency, and improve overall productivity. I really like all the things that I can bring to life and movement with my code.
+## My Tech Stack & Passion Projects
+I like automation, control systems, and code that moves real-world things, but I also really like all back-end stuff and architecture. My skill set includes:
 
-## Personal Interests
-In addition to my professional pursuits, I have a range of hobbies and interests that bring me joy and balance.
+- .NET & ASP.NET, Docker, Swagger (I really love dotnet!)
+- PLC/SPS Programming, automation, SCADA
+- MES/ERP integration
+- Microcontrollers (Arduino, ESP)
 
-- Coffee Enthusiast: I love exploring different kinds of coffee or brewing methods (except for cold brew (which I only accidentally make when I get distracted) - I don't understand this thing)
-- Gaming: I enjoy playing Forza Horizon on my XBOX and immersing myself in the world of fast cars and exciting races.
-- Outdoor Activities: Cycling, running, and being in nature help me stay active and refreshed.
-- Family Time: I cherish spending quality time with my young daughter and creating beautiful memories together.
-- Camping Adventures: Traveling with my VW Camper (T5) allows me to combine my love for adventure, freedom, and the joy of driving (while listening to audiobooks with my lovely wife)
+If it’s about creativity and finding solutions for problems, I’m in!
 
+## Off The Clock
+When I’m not coding or solving automation puzzles, here’s what I’m up to:
 
+☕ Coffee Nerd: Obsessed with all brewing methods (except cold brew—unless I forget my coffee and it happens by accident).
+🎮 Gaming: Forza Horizon on my Xbox is my go-to escape. Fast cars, open roads, good times.
+🚴 Outdoors: I love hiking, cycling and running, or just being out in nature to recharge.
+👨‍👧 Family Time: My daughter’s still little, and I love spending time with her, watching her explore the world.
+🚐 Camper Life: Road-tripping in my VW T5 camper van with my wife, listening to audiobooks, and seeing new things.
 
 # Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
